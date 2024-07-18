@@ -53,7 +53,8 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-fsdfsdfdsdfsdfsdffsdfsfsdfsdfsdfdssf          </p>
+            Find in-depth infoasdasdsasdasd asdasdasdasasdasdasdas asdasdterywrw342534r4wrwrf.
+          </p>
         </a>
 
         <a
@@ -103,7 +104,6 @@ fsdfsdfdsdfsdfsdffsdfsfsdfsdfsdfdssf          </p>
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
           </p>
         </a>
       </div>
